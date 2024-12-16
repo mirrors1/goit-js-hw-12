@@ -117,7 +117,7 @@ async function onLoadMore() {
     const cardHeight = card.getBoundingClientRect().height;
     window.scrollBy({
       left: 0,
-      top: cardHeight * 3.4,
+      top: cardHeight * 3.85,
       behavior: 'smooth',
     });
 

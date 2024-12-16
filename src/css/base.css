@@ -62,6 +62,7 @@ body .iziToast.iziToast-theme-dark .iziToast-close {
 .list__item {
   outline: 1px solid #808080;
   flex-basis: calc((100% - 24px * 2) / 3);
+  height: 248px;
 }
 .item-img {
   object-fit: cover;
